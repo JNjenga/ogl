@@ -2,7 +2,7 @@
 
 A single header library for opengl.
 I often find myself experimenting on opengl concepts and everytime I want to try to implement somthing, I have to write boilerplate code that is not part of the experiment.
-This library solves that issue. It's boiler plate code for opengl
+This library solves that issue. It's boiler plate code for opengl.
 
 ## Demo
 
