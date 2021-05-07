@@ -1,0 +1,2 @@
+# ogl
+Boilerplate opengl framework
